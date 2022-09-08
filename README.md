@@ -1,3 +1,5 @@
+##### Este projeto foi atualizado pela última vez em 2017, não incentivo a utilização por conter código obsoleto, mal projetado e duvidoso. Estou mantendo online apenas para histórico de desenvolvimento.
+
 # TCCBot - Discord Bot
 ##### Um bot para Discord em javascript, sua função principal é buscar letras de músicas no site www.vagalume.com.br
 
